@@ -1,0 +1,4 @@
+1,mondo
+2,Gli sport
+3,Attività commerciale
+4,Scientifica/Tecnologia
